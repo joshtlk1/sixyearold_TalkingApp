@@ -1,0 +1,21 @@
+.red {
+	color: white;
+	background-color: red;
+}
+.blue {
+	color: white;
+	background-color: blue;
+}
+.green {
+	color: white;
+	background-color: green;
+}
+.yellow {
+	color: white;
+	background-color: yellow;
+}
+
+h1 {
+	text-align: center;
+	background-color: red;
+}
